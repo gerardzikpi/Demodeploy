@@ -1,0 +1,11 @@
+#Virtural Environments
+demo
+
+#Python
+__pycache__
+
+#env
+.env
+
+#static
+staticfiles
